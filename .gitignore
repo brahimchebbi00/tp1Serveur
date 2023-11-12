@@ -14,9 +14,6 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-/src/Serveur3.java
-/src/Serveur4.java
-/src/ClientSock.java
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
